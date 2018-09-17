@@ -40,4 +40,4 @@ this simulation.
 -3.3086e+06  1.8807e+08 -1.1023e-01  9.8271e-02  1.9890e+30      sun.gif
  9.6086e+10  6.6047e+09  3.0243e+03  3.9595e+04  4.8690e+24    venus.gif
 
-The bodies move rapidly and venus ends up very far off of the window.
+The bodies move rapidly and venus ends up very far off of the window
